@@ -17,6 +17,9 @@ The primary of this app is simple a scanner barCode and text.
 4. Camera Permisson
 
 
+## New Feature's 
+* Object's recognize
+
 
 
 
